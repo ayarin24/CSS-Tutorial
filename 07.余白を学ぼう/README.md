@@ -62,7 +62,8 @@ p {
 }
 ```
 
-![image](https://github.com/user-attachments/assets/fa384885-ad82-4e9c-b312-df3f7aa607cf)
+![image](https://github.com/user-attachments/assets/fa384885-ad
+82-4e9c-b312-df3f7aa607cf)
 
 要素のエリアが大きくなったようにも見えますが、要素自体のサイズはそのままで`padding`エリアが10px広がりました。上下方向も中央配置になっており、前回学んだ方法よりもシンプルに配置できましたね。これは、`height`プロパティを指定しない場合、基本的にはデフォルトで文字のサイズに合った高さが設定されるため、上下方向の`padding`プロパティを同じ値で設定するだけで上下方向の配置を中央にすることができるためです。
 
